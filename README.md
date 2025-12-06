@@ -17,15 +17,15 @@ The **Aurora Borealis Theme** brings the ethereal beauty of the Northern Lights 
 - **Mystical Purple**: `#B388FF` - Enchanting purple for constants
 - **Aurora Gold**: `#FFE082` - Warm gold for numbers and warnings
 - **Polar Pink**: `#FF8A80` - Soft pink for keywords and errors
-(https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/preview-1.png)
+![Example](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/preview-1.png)
 ### Soft Variant Colors
 - **Gentle Night**: `#1A2332` - Softer background for extended sessions
 - **Muted Aurora**: `#81C784` - Gentle green tones
 - **Calm Blue**: `#64B5F6` - Relaxed blue highlights
 - **Soft Purple**: `#BA68C8` - Muted mystical accents
-(https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/preview-2.png)
+![Example](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/preview-2.png)
 ## 🌟 Features
-
+![Icon](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/icon.png)
 - **🌌 Two Beautiful Variants**
   - **Aurora Borealis**: Full intensity Northern Lights experience
   - **Aurora Borealis Soft**: Gentle variant for extended coding sessions
