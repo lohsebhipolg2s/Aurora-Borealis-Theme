@@ -25,7 +25,7 @@ The **Aurora Borealis Theme** brings the ethereal beauty of the Northern Lights 
 - **Soft Purple**: `#BA68C8` - Muted mystical accents
 ![Example](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/preview-2.png)
 ## 🌟 Features
-![Icon](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/icon.png)
+<!--![Icon](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/icon.png)-->
 - **🌌 Two Beautiful Variants**
   - **Aurora Borealis**: Full intensity Northern Lights experience
   - **Aurora Borealis Soft**: Gentle variant for extended coding sessions
