@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "displayName": "Aurora Borealis",
     "description": "A mesmerizing VS Code theme inspired by the Northern Lights with ethereal greens, mystical purples, and arctic blues",
-    "publisher": "aurora-themes",
+    "publisher": "lohsebhipolg2s",
     "license": "MIT",
     "main": "app.js",
     "engines": {
@@ -46,10 +46,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/aurora-themes/aurora-borealis-vscode"
+        "url": "https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme"
     },
     "bugs": {
-        "url": "https://github.com/aurora-themes/aurora-borealis-vscode/issues"
+        "url": "https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/issues"
     },
-    "homepage": "https://github.com/aurora-themes/aurora-borealis-vscode#readme"
+    "homepage": "https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme#readme"
 }
