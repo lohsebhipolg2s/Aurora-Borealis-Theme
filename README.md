@@ -2,7 +2,7 @@
 
 > 🌌 Experience the mystical beauty of the Northern Lights in your code
 
-![Aurora Borealis Theme](bg-banner.jpg)
+![Aurora Borealis Theme]((https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/blob/main/icons/bg-banner.jpg)
 
 ## ✨ Overview
 
