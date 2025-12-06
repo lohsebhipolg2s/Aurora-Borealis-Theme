@@ -245,8 +245,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/aurora-themes/aurora-borealis-vscode/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/aurora-themes/aurora-borealis-vscode/discussions)
+- **Issues**: [GitHub Issues](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/discussions)
 - **Email**: aurora.themes.dev@gmail.com
 
 ---
@@ -255,8 +255,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) 
 
 **🌟 May your code shine as bright as the Aurora Borealis! 🌟**
 
-Made with ❄️ by [Aurora Themes](https://github.com/aurora-themes)
+Made with ❄️ by [Aurora Themes](github.com/lohsebhipolg2s/Aurora-Borealis-Theme)
 
-[⭐ Star on GitHub](https://github.com/aurora-themes/aurora-borealis-vscode) | [🐛 Report Bug](https://github.com/aurora-themes/aurora-borealis-vscode/issues) | [💡 Request Feature](https://github.com/aurora-themes/aurora-borealis-vscode/issues)
+[⭐ Star on GitHub](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme) | [🐛 Report Bug](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/issues) | [💡 Request Feature](https://github.com/lohsebhipolg2s/Aurora-Borealis-Theme/issues)
 
 </div>
