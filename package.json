@@ -6,7 +6,7 @@
     "publisher": "lohsebhipolg2s",
     "license": "MIT",
     "main": "app.js",
-    "icon": "icons/icon.png",
+    "icon": "icons/icon-pg.png",
     "engines": {
         "vscode": "^1.13.0"
     },
