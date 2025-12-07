@@ -1,11 +1,12 @@
 {
     "name": "theme-aurora-borealis",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Aura Borealis Studio",
     "description": "A mesmerizing VS Code theme inspired by the Northern Lights with ethereal greens, mystical purples, and arctic blues",
     "publisher": "lohsebhipolg2s",
     "license": "MIT",
     "main": "app.js",
+    "icon": "icons/icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -25,7 +26,6 @@
       "activationEvents": [
         "onStartupFinished" 
     ],
-    "icon": "icons/icon.png",
     "galleryBanner": {
         "color": "#0B1426",
         "theme": "dark"
